@@ -47,6 +47,21 @@ img.slider-img{
 .slider-text{
     background-color: #1d1e1d !important;
 }
-
+.trending-image{
+    height: 100px;
+}
+.trending-item{
+    float:left;
+    width:25%;
+}
+.trending-wrapper{
+    margin: 30px;
+}
+.detail-img{
+    height: 200px;
+}
+.search-box{
+    width: 500px !important;
+}
    </style>
 </html>
