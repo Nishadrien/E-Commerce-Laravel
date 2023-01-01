@@ -74,5 +74,11 @@ img.slider-img{
     margin-bottom: 20px;
     padding-bottom: 20px;
 }
+.foot {
+  text-align: center;
+  padding: 3px;
+  background-color: darkgray;
+  color: white;
+}
    </style>
 </html>

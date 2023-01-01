@@ -21,7 +21,9 @@
     <button class="btn btn-primary">Add to Cart</button>
 </form>
 <br><br>
+<form action="/ordernow">
 <button class="btn btn-success">Buy Now</button>
+</form>
 <br><br>
 </div>
 </div>
